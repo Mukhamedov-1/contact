@@ -1,0 +1,14 @@
+@media (max-width: 991px){
+     .navbar-collapse {
+          flex-basis: 100%;
+          flex-grow: 1;
+          padding-left: 300px;
+          align-items: center;
+      }
+}
+
+@media (max-width: 576px){
+     footer .pl{
+         margin-top: 12px;
+     }
+ }
